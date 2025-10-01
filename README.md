@@ -6,12 +6,11 @@ The project demonstrates how to host an HTML + CSS site for free using GitHub.
 ---
 
 ## 🚀 Live Website
-👉 [Click here to visit](https://shriharimohite.github.io/Static-Website/)
+👉 [Click here to visit](https://vaishnavi-shingare08.github.io/StaticWebsite1/)
 
 ---
 
-## 📂 Project Structure
-Static-Website/
+## 📂 Project Structur
 ├── index.html
 ├── style.css
 └── README.md
@@ -32,6 +31,7 @@ Static-Website/
 ## 📦 How to Run Locally
 1. Clone this repo:
    bash
+   https://github.com/vaishnavi-shingare08/StaticWebsite1.git
    
    
 🛠 Deployment Steps
