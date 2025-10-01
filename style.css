@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Sleek gradient */
+  background: linear-gradient(to right, #ff69b4, #ffccff, #2c5364); /* Added pink shades */
   color: white;
   text-align: center;
   display: flex;
