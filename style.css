@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #6a11cb, #2575fc);
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Sleek gradient */
   color: white;
   text-align: center;
   display: flex;
@@ -15,10 +15,12 @@ body {
   background: rgba(0, 0, 0, 0.4);
   padding: 2rem;
   border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Added subtle shadow for depth */
 }
 
 h1 {
   margin-bottom: 1rem;
+  font-weight: 600; /* Added for a more polished heading */
 }
 
 button {
